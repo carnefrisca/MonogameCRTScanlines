@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Giovanni/Documents/Visual Studio 2015/Projects/ShaderTest/ShaderTest/Content/effect.fx</File>
+    <File>C:/Users/Giovanni/Documents/Visual Studio 2015/Projects/ShaderTest/ShaderTest/Content/frankie.png</File>
+    <File>C:/Users/Giovanni/Documents/Visual Studio 2015/Projects/ShaderTest/ShaderTest/Content/Stage 1.png</File>
+  </SourceFiles>
+</SourceFileCollection>
